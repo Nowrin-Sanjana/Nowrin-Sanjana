@@ -67,12 +67,19 @@
 
 <hr/>
 
-## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=Nowrin-Sanjana&theme=onedark&column=7)
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nowrin-Sanjana&theme=onedark&column=7" alt="GitHub Trophies"/>
+</p>
 
-## 💬 Dev Quote of the Day
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<hr/>
 
+<h2 align="center">💬 Dev Quote of the Day</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+<hr/>
 
 <h3 align="center"> 
   <a href="https://git.io/typing-svg">
