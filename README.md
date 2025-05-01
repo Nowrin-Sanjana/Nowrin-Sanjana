@@ -74,7 +74,7 @@
 
 <hr/>
 
-<h2 align="center">💬 Dev Quote of the Day</h2>
+<h2 align="center">✍️ Dev Quote of the Day</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </p>
