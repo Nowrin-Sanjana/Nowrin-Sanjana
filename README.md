@@ -74,6 +74,10 @@
 
 <hr/>
 
+<h2 align="center">🌌 Random Dev Quote</h2> <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote"/> </p> <p align="center"> <img src="https://visitor-badge.laobi.icu/badge?page_id=Nowrin-Sanjana.Nowrin-Sanjana" alt="Visitor badge"/> </p>
+
+<hr/>
+
 <h2 align="center">✍️ Dev Quote of the Day</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
