@@ -17,7 +17,7 @@
   🌱 I believe in continuous learning — always exploring new ideas, collaborating on research-driven projects, and contributing to the community.<br/>
   😮‍💨 I’m on a lifelong quest to find the perfect balance between work, learning, and coffee.<br/>
   📫 Feel free to explore my work, reach out, or chat about cool research topics and development!<br/>
-  💬 Ask me about React, MongoDB, Machine Learning... or anything [here](https://github.com/Nowrin-Sanjana/Nowrin-Sanjana/issues)**
+  💬 Ask me about React, MongoDB, Machine Learning... or anything anything [here](https://github.com/Nowrin-Sanjana/Nowrin-Sanjana/issues)**
 </div>
 
 <br/>
